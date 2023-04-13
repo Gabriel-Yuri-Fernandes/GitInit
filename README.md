@@ -20,7 +20,7 @@ Este curso é voltado para iniciantes no mundo da programação que desejam apre
 Pré-requisitos:
 Conhecimento básico de informática.
 
-#Módulos
+# Módulos
 
 Introdução ao Git e Github 
 O que é o Git
